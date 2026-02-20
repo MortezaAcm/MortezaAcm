@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-> <h3 style="font-weight:700;font-style:italic;">Front End Developer</h3>
+> ___<h3>Front End Developer</h3>___
 
 <hr>
 
