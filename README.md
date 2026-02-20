@@ -2,13 +2,9 @@
 
 > ### ___Front End Developer___
 
-<br/>
-
 ## Description:
 
 this is test repo for test `.md` file and `git` and `github.com`
-
-<br/>
 
 ## Information About Me:
 
@@ -19,15 +15,11 @@ this is test repo for test `.md` file and `git` and `github.com`
 }
 ```
 
-<br/>
-
 ## My Primary Programming Language:
 
 ```javascript
 console.log("JavaScript");
 ```
-
-<br/>
 
 ## My Skills:
 
@@ -37,8 +29,6 @@ console.log("JavaScript");
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
-
-<br/>
 
 ## Project Links:
 
