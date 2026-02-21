@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-> ___<h3>Front End Developer</h3>___
+> **_<h3>Front End Developer</h3>_**
 
 <hr>
 
