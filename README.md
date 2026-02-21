@@ -18,6 +18,7 @@ console.log("JavaScript");
 <img width="80px" height="80px" src="./images/icons8-html-96.png">
 <img width="80px" height="80px" src="./images/icons8-css-96.png">
 <img width="80px" height="80px" src="./images/icons8-javascript-96.png">
+<img width="80px" height="80px" src="./images/icons8-bootstrap-96.png">
 <img width="80px" height="80px" src="./images/icons8-tailwindcss-96.png">
 </p>
 
